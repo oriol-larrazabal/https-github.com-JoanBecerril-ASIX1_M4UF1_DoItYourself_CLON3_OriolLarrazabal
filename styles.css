@@ -1,0 +1,49 @@
+body{
+    margin:0;
+}
+#header{
+    /* Propiedad que permite alterar la altura */
+    height: 110vh;
+    background-image: url(../img/EL\ PLUGG\ 2.jpg);
+    background-position: center;
+    background-size: cover;
+    color: white;
+}
+#header h1{
+    color: white;
+    margin: 0;
+    padding: 0 20%;
+    font-size: 50px;
+    text-shadow: 0 0 5px black, 0 0 10px black, 0 0 20px black, 0 0 30px black, 0 0 40px black, 0 0 55px black, 0 0 70px black;
+}
+#main{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#main p{
+    font-size: 20px;
+}
+
+#main h1{
+    font-size: 40px;
+}
+
+iframe{
+    width: 100%;
+    height: 330px;
+}
+
+#spoiler{
+    font-family: 'BhuTuka Expanded One', cursive;
+}
+
+img{
+    width: 100%;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
