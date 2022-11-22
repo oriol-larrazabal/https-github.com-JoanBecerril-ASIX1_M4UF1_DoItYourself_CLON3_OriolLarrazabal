@@ -2,9 +2,8 @@ body{
     margin:0;
 }
 #header{
-    /* Propiedad que permite alterar la altura */
     height: 110vh;
-    background-image: url(../img/EL\ PLUGG\ 2.jpg);
+    background-image: url(img/EL\ PLUGG\ 2.jpg);
     background-position: center;
     background-size: cover;
     color: white;
